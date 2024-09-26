@@ -5,6 +5,8 @@
 - Users can register and login. 
 - Only authenticated users can create tasks.
 - Create tasks with properties like title and description.
+- Mock API simulating backend operations for user authentication and task management.
+- Persistent data across sessions using localStorage.
 
 ## Screenshots
 
