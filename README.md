@@ -10,13 +10,13 @@
 
 ### authorization
 
-<img src="/screenshot1" width="500"/>
+<img src="https://github.com/Venkat-3010/Task_manage/blob/main/public/screenshot2.png?raw=true" width="500"/>
 
-<img src="/screenshot2" width="500"/>
+<img src="https://github.com/Venkat-3010/Task_manage/blob/main/public/screeshot1.png?raw=true" width="500"/>
 
 ### task_page
 
-<img src="/screenshot3" width="500"/>
+<img src="https://github.com/Venkat-3010/Task_manage/blob/main/public/screenshot3.png?raw=true" width="500"/>
 
 ### Commands used to start the app:-
 
