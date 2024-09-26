@@ -1,8 +1,23 @@
-# React + Vite
+## Live App : <a href="https://task-manage-indol.vercel.app/" target="_blank">Link</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Users can register and login. 
+- Only authenticated users can create tasks.
+- Create tasks with properties like title and description.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+### authorization
+
+<img src="/screenshot1" width="500"/>
+
+<img src="/screenshot2" width="500"/>
+
+### task_page
+
+<img src="/screenshot3" width="500"/>
+
+### Commands used to start the app:-
+
+##### Frontend : npm run dev (works on 5173 port)
